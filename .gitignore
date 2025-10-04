@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Power BI auto-backups
+*.tmp
